@@ -24,3 +24,7 @@ Used in this project:
 5. **Jupyter notebook**, **Visual Studio Code** and **PyCharm** as IDE
 6. **Python flask** for http server
 7. **HTML/CSS/Javascript** for UI
+
+
+End result of this project is shown on the next picture.
+![](https://raw.githubusercontent.com/mattdmv/NBA_player_classifier/main/Result.JPG)
