@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/mattdmv/NBA_player_classifier/main/NBAPlayerClassiffierUI.JPG)
 
-In this data science and machine learning project, model was built to classify 5 
+In this data science and machine learning project, model was built to classify 6 
 NBA players:
 1) Giannis Antetokounmpo
 2) Stephen Curry
