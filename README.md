@@ -28,3 +28,8 @@ Used in this project:
 
 End result of this project is shown on the next picture.
 ![](https://raw.githubusercontent.com/mattdmv/NBA_player_classifier/main/Result.JPG)
+
+
+End result in case there are 2 players in the same picture is shown below.
+![](https://raw.githubusercontent.com/mattdmv/NBA_player_classifier/main/Result2.JPG)
+
